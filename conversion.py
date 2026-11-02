@@ -1,6 +1,6 @@
 import base64, re
 from IPython.display import Image, display
-#input output text here from MASKED BEGIN to MASKED END inclusive
+#paste output text here from MASKED BEGIN to MASKED END inclusive
 text = """
 """
 
